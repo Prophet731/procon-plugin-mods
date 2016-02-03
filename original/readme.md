@@ -1,3 +1,7 @@
+Original topic:
+
+https://forum.myrcon.com/showthread.php?6698-Chat-GUID-Stats-and-Mapstats-Logger-1-0-0-2
+
 # Description
 
 This plugin is used to log player chat, player GUID's, player Stats, Weaponstats and Mapstats.
@@ -53,7 +57,7 @@ The Standard MySQL Port is 3306
 - Ingame commands for Dogtags
 - Merged stats from all Server
 
-# May Working
+# Maybe Working
 
 - Ingame Weaponstats
 
